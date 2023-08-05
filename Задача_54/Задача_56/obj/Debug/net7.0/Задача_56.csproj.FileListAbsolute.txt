@@ -1,0 +1,15 @@
+C:\Users\Pockettiger\Desktop\Seminar_8\Задача_54\Задача_56\bin\Debug\net7.0\Задача_56.exe
+C:\Users\Pockettiger\Desktop\Seminar_8\Задача_54\Задача_56\bin\Debug\net7.0\Задача_56.deps.json
+C:\Users\Pockettiger\Desktop\Seminar_8\Задача_54\Задача_56\bin\Debug\net7.0\Задача_56.runtimeconfig.json
+C:\Users\Pockettiger\Desktop\Seminar_8\Задача_54\Задача_56\bin\Debug\net7.0\Задача_56.dll
+C:\Users\Pockettiger\Desktop\Seminar_8\Задача_54\Задача_56\bin\Debug\net7.0\Задача_56.pdb
+C:\Users\Pockettiger\Desktop\Seminar_8\Задача_54\Задача_56\obj\Debug\net7.0\Задача_56.csproj.AssemblyReference.cache
+C:\Users\Pockettiger\Desktop\Seminar_8\Задача_54\Задача_56\obj\Debug\net7.0\Задача_56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pockettiger\Desktop\Seminar_8\Задача_54\Задача_56\obj\Debug\net7.0\Задача_56.AssemblyInfoInputs.cache
+C:\Users\Pockettiger\Desktop\Seminar_8\Задача_54\Задача_56\obj\Debug\net7.0\Задача_56.AssemblyInfo.cs
+C:\Users\Pockettiger\Desktop\Seminar_8\Задача_54\Задача_56\obj\Debug\net7.0\Задача_56.csproj.CoreCompileInputs.cache
+C:\Users\Pockettiger\Desktop\Seminar_8\Задача_54\Задача_56\obj\Debug\net7.0\Задача_56.dll
+C:\Users\Pockettiger\Desktop\Seminar_8\Задача_54\Задача_56\obj\Debug\net7.0\refint\Задача_56.dll
+C:\Users\Pockettiger\Desktop\Seminar_8\Задача_54\Задача_56\obj\Debug\net7.0\Задача_56.pdb
+C:\Users\Pockettiger\Desktop\Seminar_8\Задача_54\Задача_56\obj\Debug\net7.0\Задача_56.genruntimeconfig.cache
+C:\Users\Pockettiger\Desktop\Seminar_8\Задача_54\Задача_56\obj\Debug\net7.0\ref\Задача_56.dll
